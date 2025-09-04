@@ -3,7 +3,7 @@
 ---
 
 Hi, I made a program that assembles resumes from their individual components.  
-It is *terrible, **barely works,** * and now I'm going to teach **you** how get **it** to output something approximating a usable resume.
+It is *terrible, **barely works,*** and now I'm going to teach **you** how get **it** to output something approximating a usable resume.
 
 
 
@@ -50,3 +50,4 @@ It is *terrible, **barely works,** * and now I'm going to teach **you** how get 
 	* Most browsers can convert .html to .pdf, but that's not to say the results will be pretty
 	* Certain things, like skills, may look better as lists rather than as paragraph text
 3. You should now have something approximating a functional resume
+
